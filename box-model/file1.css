@@ -11,3 +11,11 @@ p {
   height: 50px;
   border: solid 1px red;
 }
+
+#cssbox {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  padding: 20px;
+  width: 250px;
+  border: solid 6px #545454;
+}
